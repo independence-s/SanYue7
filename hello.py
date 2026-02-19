@@ -3,4 +3,4 @@ for i in range(10):
     print(i*'*')
     print("\n")
 if(i>0):
-    print("ÄãºÃ")
+    print("ä½ å¥½")
